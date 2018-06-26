@@ -1,5 +1,5 @@
 # 懒加载+瀑布流实现新闻页面
-[预览地址]
+[预览地址](http://www.feelone.top/waterfall-sinanews/)
 
 
 ## 懒加载实现原理
@@ -45,4 +45,25 @@
 [点击预览懒加载](http://js.jirengu.com/qonuw/1/edit?html,js,output)
 
 
-## 总结
+## 展示<br>
+![image](http://p8tsayr4m.bkt.clouddn.com/lazyload.gif)<br>
+
+[效果预览地址](http://www.feelone.top/waterfall-sinanews/)<br>
+[代码展示]()
+
+实现：<br>
+
+i：<br>
+
+1. 获取数据<br>
+2. 把数据封装成 dom 到页面中<br>
+3. 使用瀑布流去访问dom的位置<br>
+
+ii：<br>
+
+1. 把获取page=1的20条数据拼装成dom放到页面中<br>
+2. 使用瀑布流访问dom位置
+3. page++<br>
+
+iii：<br>
+页面触发滚动：执行ii操作<br>
