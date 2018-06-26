@@ -50,7 +50,7 @@
 <br>
 
 [效果预览地址](http://www.feelone.top/waterfall-sinanews/)<br>
-[代码展示]()
+[代码展示](https://github.com/JackWong992/waterfall-sinanews/blob/master/index.html)
 
 实现：<br>
 
