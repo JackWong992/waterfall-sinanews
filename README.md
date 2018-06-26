@@ -46,20 +46,24 @@
 
 
 ## 展示<br>
-
-![](http://p8tsayr4m.bkt.clouddn.com/lazyload.gif)<br>
+![image](http://p8tsayr4m.bkt.clouddn.com/lazyload.gif)<br>
 
 [效果预览地址](http://www.feelone.top/waterfall-sinanews/)<br>
 [代码展示]()
 
 实现：<br>
+
 i：<br>
+
 1. 获取数据<br>
 2. 把数据封装成 dom 到页面中<br>
 3. 使用瀑布流去访问dom的位置<br>
+
 ii：<br>
+
 1. 把获取page=1的20条数据拼装成dom放到页面中<br>
 2. 使用瀑布流访问dom位置
 3. page++<br>
+
 iii：<br>
 页面触发滚动：执行ii操作<br>
