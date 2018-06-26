@@ -46,7 +46,8 @@
 
 
 ## 展示<br>
-![image](http://p8tsayr4m.bkt.clouddn.com/lazyload.gif)<br>
+![image](https://github.com/JackWong992/waterfall-sinanews/blob/master/lazyload.gif)
+<br>
 
 [效果预览地址](http://www.feelone.top/waterfall-sinanews/)<br>
 [代码展示]()
